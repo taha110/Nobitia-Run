@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45686a33c0706b94ea26b868b866797c
+timeCreated: 1440591770
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - btnTexture_play: {fileID: 2800000, guid: 29f85ad5950c15f47a8d489f8be17a86, type: 3}
+  - btnTexture_quit: {fileID: 2800000, guid: 573f247ecdd50d943885d5a9af9552d7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
